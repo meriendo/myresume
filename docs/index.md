@@ -1,9 +1,10 @@
 <title>My Resume</title>
-    <!--Name: Merima Mujala
-        Course: Web app development
-        Assignment: HTML Resume
-        Due Date: 25/10/2020
-        Purpose: Gain experience in coding basic HTML-->
+  
+  <!--Name: Merima Mujala
+      Course: Web app development
+      Assignment: HTML Resume
+      Due Date: 25/10/2020
+      Purpose: Gain experience in coding basic HTML-->
 
 
   <center>
@@ -114,7 +115,7 @@
 </div>
 <h3>Relevant experience</h3>
 
-    <table>
+<table>
     <tr>
       <td>Programming for Engineers <acronym title="Teaching Assistant">TA</acronym></td>
       <td>February 2020</td>
