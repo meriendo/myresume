@@ -112,7 +112,8 @@
     </li>
   </ul>
 </div>
-<table><h3>Relevant experience</h3>
+<center><h3>Relevant experience</h3></center>
+<table>
     <tr>
       <td>Programming for Engineers <acronym title="Teaching Assistant">TA</acronym></td>
       <td>February 2020</td>
@@ -129,7 +130,7 @@
 
 <h3>Contact me!</h3>
 
-  <table width=60%>
+  <table>
     <tr>
       <td>
         <strong><u>mujala.merima@gmail.com</u></strong><br>
