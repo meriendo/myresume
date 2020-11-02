@@ -112,8 +112,8 @@
     </li>
   </ul>
 </div>
-<center><h3>Relevant experience</h3></center>
-<center>
+<h3>Relevant experience</h3>
+
     <table>
     <tr>
       <td>Programming for Engineers <acronym title="Teaching Assistant">TA</acronym></td>
@@ -127,9 +127,9 @@
       <td>January 2021 <abbr title="expected">(exp.)</abbr></td>
     </tr>
 </table>
-</center>
 
-<center><h3>Contact me!</h3></center>
+
+<h3>Contact me!</h3>
 
   <table>
     <tr>
