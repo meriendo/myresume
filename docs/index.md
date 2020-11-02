@@ -140,8 +140,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 <h3>Contact me!</h3>
 
