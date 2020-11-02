@@ -1,10 +1,12 @@
 <title>My Resume</title>
-  
-  <!--Name: Merima Mujala
+
+<!--  Name: Merima Mujala
       Course: Web app development
       Assignment: HTML Resume
       Due Date: 25/10/2020
-      Purpose: Gain experience in coding basic HTML-->
+      Purpose: Gain experience in coding basic HTML
+      
+  -->
 
 
   <center>
@@ -44,7 +46,10 @@
     </ol>  
 </div>
 
-
+<br>
+<br>
+<br>
+<br>
 
 <div>
     <center>
@@ -58,7 +63,11 @@
         <li>Tutoring and teaching programming and algorithmic mathematics</li>
     </ul>
 </div>
-  
+
+<br>
+<br>
+<br>
+<br>
 
 <div>
     <center>
@@ -113,6 +122,12 @@
     </li>
   </ul>
 </div>
+
+<br>
+<br>
+<br>
+<br>
+
 <h3>Relevant experience</h3>
 
 <table>
@@ -129,10 +144,14 @@
     </tr>
 </table>
 
+<br>
+<br>
+<br>
+<br>
 
 <h3>Contact me!</h3>
 
-  <table>
+  <table width=70%>
     <tr>
       <td>
         <strong><u>mujala.merima@gmail.com</u></strong><br>
