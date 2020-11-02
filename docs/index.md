@@ -3,10 +3,8 @@
           Course: Web app development
           Assignment: HTML Resume
           Due Date: 25/10/2020
-          Purpose: Gain experience in coding basic HTML
-    -->
-<br>
-<br>
+          Purpose: Gain experience in coding basic HTML-->
+
 
   <center>
     <a id="beginning"><h1>My Resume</h1></a>
@@ -25,14 +23,13 @@
         My name is Merima Mujala. I was born on 3rd of January in 2000, in Konjic, Bosnia and Herzegovina 
         where I still reside. My interests vary from ancient and modern arts to researching various topics
         in medicinal literature, but my main focus - mathematics and algorithms application and problem solving
-        - ended up deciding my career path to be software engineering with an accent on back end Java programming.</br>
+        - ended up deciding my career path to be software engineering with an accent on back end Java programming.
         <p> </p>
       </blockquote>
     </p>
 </div>
 
-</br>
-</br>
+
 
 <div>
     <center>    
@@ -46,8 +43,7 @@
     </ol>  
 </div>
 
-</br>
-</br>
+
 
 <div>
     <center>
@@ -62,8 +58,6 @@
     </ul>
 </div>
   
-</br>
-</br>
 
 <div>
     <center>
@@ -118,7 +112,7 @@
     </li>
   </ul>
 </div>
-Relevant experience
+<table><h3>Relevant experience</h3>
     <tr>
       <td>Programming for Engineers <acronym title="Teaching Assistant">TA</acronym></td>
       <td>February 2020</td>
